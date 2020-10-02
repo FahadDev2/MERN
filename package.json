@@ -1,0 +1,9 @@
+{
+    "name": "App",
+    "version": "1.0.0",
+    "description": "MERN",
+    "scripts": {
+      "server": "npm run server --prefix server",
+      "client" : "npm start --prefix client"
+    }
+  }
